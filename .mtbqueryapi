@@ -1,0 +1,6 @@
+MTB_CACHE_FULLPATH=C:/CY8_psoc6/Test1/Test_Dual-CPU_IPC_Semaphore_ALS_Termistor/.mtbqueryapi
+MTB_BUILD_SUPPORT=
+MTB_PROJECTS=proj_cm0p proj_cm4
+MTB_QUERY=1
+MTB_TOOLS_DIR=C:/Users/skrug/ModusToolbox/tools_3.0
+MTB_TYPE=APPLICATION
