@@ -1,3 +1,11 @@
+# Thermistor and Ambient Light Sensors 
+This firmware example is ment to run on the Infinion PSoC 6 Family of MCU's
+
+I used the example project "SAR_ADC_Low_Power_Sensing_-_Thermistor_and_ALS" to test the sensors.. My intent is to use the code to implement the sensor design into the M0+ core of my dual code project. 
+
+I stated by using the semaphore dual core example " Dual-CPU_IPC_Semaphore" and I copied the code from the ALS/Themistor example project to the main.c file in the  CM0 project of the dual core  example 
+
+
 # PSoC&trade; 6 MCU: Dual-CPU IPC semaphore
 
 This code example demonstrates how to use the inter-processor communication (IPC) driver to implement a semaphore in PSoC&trade; 6 MCU. The semaphore is used as a lock to control access to a resource shared by the CPUs and synchronize the initialization instructions.
